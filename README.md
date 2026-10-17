@@ -1,12 +1,18 @@
 <div align="center">
   <h1>Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
-  <p>🚀 Em transição de carreira para a área de Dados | MBA em Data Science e Analytics pela USP | AWS re/Start</p>
+  <p>🚀 Em transição de carreira para a área de Dados | Duplo MBA pela USP (Esalq e Poli) | AWS re/Start</p>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mim
-Profissional em transição para a área de Dados, unindo uma sólida formação acadêmica (MBA USP) e conhecimentos práticos em computação em nuvem. Meu foco é estruturar fluxos de dados, realizar análises exploratórias e transformar dados complexos em decisões estratégicas e de negócio.
+Profissional em transição de carreira para a área de Dados, unindo mais de uma década de experiência em gestão de indicadores de qualidade, operações e processos administrativos com uma sólida formação acadêmica, possuindo um duplo MBA pela Universidade de São Paulo (USP) — em Data Science e Analytics pela Esalq e em Operações pela Poli, ambos concluídos em 2025. Acredito que a combinação entre o pensamento analítico voltado para o negócio e o rigor técnico é o caminho mais eficiente para transformar dados brutos em decisões estratégicas relevantes.
+
+No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem (AWS re/Start) e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas de ponta a ponta.
+
+Meus interesses profissionais estão voltados para oportunidades como Analista de Dados Júnior, onde eu possa atuar diretamente com modelagem, análises exploratórias (EDA), criação de dashboards e otimização de processos de negócio por meio de dados. Tenho grande interesse em ambientes dinâmicos que valorizem a melhoria contínua, a colaboração em equipe e a tomada de decisão orientada a evidências.
+
+Sinta-se à vontade para entrar em contato por aqui, conferir meus projetos práticos no GitHub ou me chamar no WhatsApp para trocarmos uma ideia sobre oportunidades na área de dados!
 
 ---
 
