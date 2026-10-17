@@ -71,15 +71,12 @@ Estou aberto a novas oportunidades e conexões na área de dados, com disponibil
 ### 📊 Estatísticas e Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesuinoaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Jesuino's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesuinoaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesuinoaraujo&layout=compact&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesuinoaraujo&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesuinoaraujo&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesuinoaraujo&theme=dark&hide_border=true" width="98%" />
 </p>
 
 ---
