@@ -18,7 +18,7 @@ Estou aberto a novas oportunidades e conexões na área de dados, com disponibil
 ---
 
 ### 🏆 Confira meu portfólio completo
-* [Portfólio / PDI e Projetos Práticos](http://pdi.araujo-dev.workers.dev)
+* **[Projeto-MAS-25 (TCC USP)](https://github.com/Jesuinoaraujo/Projeto-MAS-25):** Pipeline de dados estruturado com arquitetura em camadas, utilizando Apache Airflow, Docker, PySpark e PostgreSQL para processamento e análises em Python.
 
 ---
 
