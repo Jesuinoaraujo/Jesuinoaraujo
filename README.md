@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Jesuíno Araújo 👋</h1>
 
 <div align="center">
-  <p translate="no">🚀 Em transição de carreira para a área de Dados | MBAs pela USP Esalq e Poli | AWS re/Start</p>
+  <p>🚀 Em transição de carreira para a área de Dados | MBAs pela USP Esalq e Poli | AWS re&#x2F;Start</p>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre mim
 Profissional em transição de carreira para a área de Dados, possuindo duplo MBA pela Universidade de São Paulo USP — em Data Science e Analytics pela Esalq e em Operações pela Poli, ambos concluídos em 2025. Tenho facilidade em traduzir regras de negócio em relatórios práticos. Acredito que a combinação entre o pensamento analítico voltado para o negócio e o rigor técnico é o caminho mais eficiente para transformar dados brutos em estratégias. Atualmente, estou expandindo minha base técnica na Escola da Nuvem para obter a certificação AWS Certified Cloud Practitioner, com foco em integrar a análise de dados a ambientes cloud. Nos momentos livres, pratico jiu-jitsu, ensinando outras pessoas com as habilidades que desenvolvi ao longo dos anos nas artes marciais, e faço corrida de rua.
 
-No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem AWS re/Start e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas.
+No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem AWS re&#x2F;Start e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas.
 
 Meus interesses profissionais estão voltados para oportunidades como Analista de Dados Júnior, onde eu possa atuar diretamente com modelagem, análises exploratórias EDA, criação de dashboards e otimização de processos de negócio por meio de dados. Tenho grande interesse em ambientes dinâmicos que valorizem a melhoria contínua, a colaboração em equipe e a tomada de decisão orientada a evidências.
 
@@ -81,5 +81,5 @@ Estou aberto a novas oportunidades e conexões na área de dados, com disponibil
 ### 📫 Contato
 * 💼 **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/jesuinoaraujo/)
 * 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5511997410815?text=Olá%20Jesuino,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
-* ✉️ **E-mail:** [jesuinosouza354@outlook.com](mailto:jesuinosouza354@outlook.com)
+* ✉️ **E-mail:** [jesuinosouza354@gmail.com](mailto:jesuinosouza354@gmail.com)
 * ✍️ **Medium:** [medium.com/@jesuinosouza354](https://medium.com/@jesuinosouza354)
