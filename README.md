@@ -1,40 +1,62 @@
+<h1 align="center">Olá, eu sou Jesuíno Araújo 👋</h1>
+
 <div align="center">
-  <h1>Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
-  <p>🚀 Em transição de carreira para a área de Dados | Duplo MBA pela USP (Esalq e Poli) | AWS re/Start</p>
+  <p>🚀 Em transição de carreira para a área de Dados | MBAs pela USP Esalq e Poli | AWS re/Start</p>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mim
-Profissional em transição de carreira para a área de Dados, unindo mais de uma década de experiência em gestão de indicadores de qualidade, operações e processos administrativos com uma sólida formação acadêmica, possuindo um duplo MBA pela Universidade de São Paulo (USP) — em Data Science e Analytics pela Esalq e em Operações pela Poli, ambos concluídos em 2025. Acredito que a combinação entre o pensamento analítico voltado para o negócio e o rigor técnico é o caminho mais eficiente para transformar dados brutos em decisões estratégicas relevantes.
+Profissional em transição de carreira para a área de Dados, possuindo duplo MBA pela Universidade de São Paulo USP — em Data Science e Analytics pela Esalq e em Operações pela Poli, ambos concluídos em 2025. Tenho facilidade em traduzir regras de negócio em relatórios práticos. Acredito que a combinação entre o pensamento analítico voltado para o negócio e o rigor técnico é o caminho mais eficiente para transformar dados brutos em estratégias. Atualmente, estou expandindo minha base técnica na Escola da Nuvem para obter a certificação AWS Certified Cloud Practitioner, com foco em integrar a análise de dados a ambientes cloud. Nos momentos livres, pratico jiu-jitsu, ensinando outras pessoas com as habilidades que desenvolvi ao longo dos anos nas artes marciais, e faço corrida de rua.
 
-No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem (AWS re/Start) e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas de ponta a ponta.
+No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem AWS re/Start e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas.
 
-Meus interesses profissionais estão voltados para oportunidades como Analista de Dados Júnior, onde eu possa atuar diretamente com modelagem, análises exploratórias (EDA), criação de dashboards e otimização de processos de negócio por meio de dados. Tenho grande interesse em ambientes dinâmicos que valorizem a melhoria contínua, a colaboração em equipe e a tomada de decisão orientada a evidências.
+Meus interesses profissionais estão voltados para oportunidades como Analista de Dados Júnior, onde eu possa atuar diretamente com modelagem, análises exploratórias EDA, criação de dashboards e otimização de processos de negócio por meio de dados. Tenho grande interesse em ambientes dinâmicos que valorizem a melhoria contínua, a colaboração em equipe e a tomada de decisão orientada a evidências.
 
-Sinta-se à vontade para entrar em contato por aqui, conferir meus projetos práticos no GitHub ou me chamar no WhatsApp para trocarmos uma ideia sobre oportunidades na área de dados!
+Estou aberto a novas oportunidades e conexões na área de dados, com disponibilidade para atuação em modelo remoto. Sinta-se à vontade para entrar em contato por e-mail, WhatsApp ou conferir os meus projetos práticos e o portfólio completo em meus canais profissionais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🏆 Confira meu portfólio completo
+* [Portfólio / PDI e Projetos Práticos](http://pdi.araujo-dev.workers.dev)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
+---
+
+### 🔭 No que estou trabalhando atualmente
+* **Projeto de MLOps (TCC USP):** Construção de pipeline de dados com arquitetura em camadas (Medalhão) e Machine Learning para diagnóstico médico.
+* **Automação e Pipelines:** Integração de fluxos de dados utilizando Apache Airflow, Docker, MinIO e PostgreSQL.
+* **Análise Exploratória:** Desenvolvimento de projetos em Python focados em EDA e extração de insights de negócio.
+
+---
+
+### 🌱 Atualmente aprendendo
+* Técnicas avançadas de modelagem preditiva e tratamento de dados aplicadas ao negócio.
+* Aprofundamento em arquitetura de dados e serviços em nuvem AWS (preparação para certificação AWS Certified Cloud Practitioner).
+
+---
+
+### 🛠️ Conjunto de Habilidades Técnicas
+
+**Análise e Visualização de Dados**
+* ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
+* ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
+* ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
+
+**Programação e Automação**
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+* ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Engenharia, Nuvem e Controle de Versão**
+* ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+* ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ### 📌 Principais Projetos
-* **[pipeline-dados-2025](https://github.com/Jesuinoaraujo/pipeline-dados-2025):** Projeto focado em MLOps e fluxos de dados estruturados.
+* **[pipeline-dados-2025](https://github.com/Jesuinoaraujo/pipeline-dados-2025):** Projeto focado em MLOps e fluxos de dados estruturados em arquitetura medalhão.
 * **[fluxo-de-ar-spark-minio-postgres](https://github.com/Jesuinoaraujo/fluxo-de-ar-spark-minio-postgres):** Arquitetura integrada utilizando Airflow, Spark, MinIO e PostgreSQL.
 * **[iris-classe-2024](https://github.com/Jesuinoaraujo/iris-classe-2024):** Análise exploratória e modelagem inicial em Python.
 
@@ -59,4 +81,5 @@ Sinta-se à vontade para entrar em contato por aqui, conferir meus projetos prá
 ### 📫 Contato
 * 💼 **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/jesuinoaraujo/)
 * 📱 **WhatsApp:** [Enviar mensagem](https://wa.me/5511997410815?text=Olá%20Jesuino,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.)
-* 📧 **E-mail:** [jesuinosouza354@outlook.com](mailto:jesuinosouza354@outlook.com)
+* ✉️ **E-mail:** [jesuinosouza354@outlook.com](mailto:jesuinosouza354@outlook.com)
+* ✍️ **Medium:** [medium.com/@jesuinosouza354](https://medium.com/@jesuinosouza354)
