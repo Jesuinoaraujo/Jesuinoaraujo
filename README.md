@@ -7,13 +7,29 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Profissional em transição de carreira para a área de Dados, possuindo duplo MBA pela Universidade de São Paulo USP — em Data Science e Analytics pela Esalq e em Operações pela Poli, ambos concluídos em 2025. Tenho facilidade em traduzir regras de negócio em relatórios práticos. Acredito que a combinação entre o pensamento analítico voltado para o negócio e o rigor técnico é o caminho mais eficiente para transformar dados brutos em estratégias. Atualmente, estou expandindo minha base técnica na Escola da Nuvem para obter a certificação AWS Certified Cloud Practitioner, com foco em integrar a análise de dados a ambientes cloud. Nos momentos livres, pratico jiu-jitsu, ensinando outras pessoas com as habilidades que desenvolvi ao longo dos anos nas artes marciais, e faço corrida de rua.
+Profissional em transição de carreira para a área de Dados, possuindo duplo MBA pela Universidade de São Paulo USP — em Data Science e Analytics pela Esalq e em Operações pela Poli, ambos concluídos em 2025. Tenho facilidade em traduzir regras de negócio em relatórios práticos. Acredito que a combinação entre o pensamento analítico voltado para o negócio e o rigor técnico é o caminho mais eficiente para transformar dados brutos em estratégias. Atualmente, estou expandindo minha base técnica na Escola da Nuvem para obter a certificação AWS Certified Cloud Practitioner, com foco em integrar a análise de dados a ambientes cloud. Nos momentos livres, pratico jiu-jitsu, ensinando outras pessoas com as habilidades que desenvolvi ao longo dos anos nas artes marciais, além de participar de provas de corrida de rua.
 
-No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem AWS re&#x2F;Start e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas.
+No meu desenvolvimento prático e acadêmico, utilizo Python e SQL para manipulação, limpeza e consulta de bases de dados, além de estruturar pipelines e fluxos automatizados com Apache Airflow e Docker. Também possuo familiaridade com computação em nuvem AWS re/Start e ferramentas de visualização e relatórios executivos como o Power BI, buscando sempre entregar análises claras que apoiem a eficiência operacional e a resolução de problemas.
 
 Meus interesses profissionais estão voltados para oportunidades como Analista de Dados Júnior, onde eu possa atuar diretamente com modelagem, análises exploratórias EDA, criação de dashboards e otimização de processos de negócio por meio de dados. Tenho grande interesse em ambientes dinâmicos que valorizem a melhoria contínua, a colaboração em equipe e a tomada de decisão orientada a evidências.
 
 Estou aberto a novas oportunidades e conexões na área de dados, com disponibilidade para atuação em modelo remoto. Sinta-se à vontade para entrar em contato por e-mail, WhatsApp ou conferir os meus projetos práticos e o portfólio completo em meus canais profissionais.
+
+Minhas principais competências:
+
+Hard Skills: Python, SQL (Postgres, SQLite), Power BI, Power Query, PySpark, Airflow, Docker, Excel, Google Sheets, GitHub, VS Code.
+
+Soft Skills: Perfil Analítico e Autodidata, Resiliência, Organização, Didática, Visão de Processos e Colaboração em Equipe.
+
+🔹 Análise de Dados & Ciência de Dados
+
+🔹 Python • SQL • Power BI • Airflow • Docker
+
+🔹 AWS Certified Cloud Practitioner (Em andamento)
+
+🔹 Disponibilidade para atuação em modelo remoto
+
+
 
 ---
 
