@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Jesuíno Araújo 👋</h1>
 
 <div align="center">
-  <p>🚀 Em transição de carreira para a área de Dados | MBAs pela USP Esalq e Poli | AWS re/Start</p>
+  <p translate="no">🚀 Em transição de carreira para a área de Dados | MBAs pela USP Esalq e Poli | AWS re/Start</p>
 </div>
 
 ---
